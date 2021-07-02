@@ -9,5 +9,5 @@ For each specifically-designed CST EM STUDIO project, the script will do the fol
 5.	Runs LTSPICE with the schematic input file (.asc) and interacts with LTSPICE GUI to find out when the simulation is finished and to extract current-voltage output of the circuit.
 6.	Calculates and reports mean and ripple of the output current and output voltage.
 
-![parallel-fed-capacitive-coupled-cascade-generator-circuit](https://user-images.githubusercontent.com/86848958/124319634-c06b5d00-db8f-11eb-8909-aed197827150.png)
+![parallel-fed-capacitive-coupled-cascade-generator-circuit](hhttps://github.com/oveis-hasanpour/cst-em-studio-ltspice-interface-capacitive-voltage-multiplier/blob/main/parallel-fed-capacitive-coupled-cascade-generator-circuit.png)
 ![parallel-fed-capacitive-coupled-cascade-generator-structure-circuit](https://user-images.githubusercontent.com/86848958/124319667-d11bd300-db8f-11eb-8a46-7da0895861f8.png)

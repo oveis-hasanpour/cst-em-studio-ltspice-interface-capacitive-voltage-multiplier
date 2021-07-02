@@ -10,4 +10,4 @@ For each specifically-designed CST EM STUDIO project, the script will do the fol
 6.	Calculates and reports mean and ripple of the output current and output voltage.
 
 ![parallel-fed-capacitive-coupled-cascade-generator-circuit](https://github.com/oveis-hasanpour/cst-em-studio-ltspice-interface-capacitive-voltage-multiplier/blob/main/parallel-fed-capacitive-coupled-cascade-generator-circuit.png)
-![parallel-fed-capacitive-coupled-cascade-generator-structure-circuit](https://github.com/oveis-hasanpour/cst-em-studio-ltspice-interface-capacitive-voltage-multiplier/blob/main/parallel-fed-capacitive-coupled-cascade-generator-structure-circuit.png)
+![parallel-fed-capacitive-coupled-cascade-generator-structure-circuit](https://github.com/oveis-hasanpour/cst-em-studio-ltspice-interface-capacitive-voltage-multiplier/blob/main/parallel-fed-capacitive-coupled-cascade-generator-structure-circuit2.png)

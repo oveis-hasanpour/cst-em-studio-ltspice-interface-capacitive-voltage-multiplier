@@ -1,9 +1,3 @@
-;v10 مشکل license release رو هم برطرف می‌کنه.
-
-; همه‌ی WinWaitActiveها می‌تونن یه Return دااشته باشن و از اونا بایذ استفاده بشه. بهتره که استفاده بشه.
-; همینطور ControlClick و Send که می‌تونه با ControlSend جایگزین بشه
-;اسم قطعات مثل خازن‌ها و ... به هیچ‌وجه نباید فاصله درش داشته باشه
-
 #RequireAdmin
 #include <MsgBoxConstants.au3>
 #include <StringConstants.au3>
